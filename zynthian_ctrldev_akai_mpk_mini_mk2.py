@@ -4,22 +4,14 @@
 # ZYNTHIAN PROJECT: Zynthian Control Device Driver
 #
 # Zynthian Control Device Driver for "Akai MPK mini mk2"
-#
-# Copyright (C) 2024 Oscar Aceña <oscaracena@gmail.com>
-#
 # ******************************************************************************
 #
-# This program is free software; you can redistribute it and/or
-# modify it under the terms of the GNU General Public License as
-# published by the Free Software Foundation; either version 2 of
-# the License, or any later version.
+# This is very half-assed. I just tried remapping constants from the existing
+# MPK mini mk3 in the official Zynthian repo. 
 #
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
-#
-# For a full copy of the GNU General Public License see the LICENSE.txt file.
+# When I started playing with it, the existing mappings were really not why I wanted to use a keyboard
+# controller here. But also, given the layout of the device, I don't know that I can suggest anything better.
+# So I gave up and lots of stuff isn't tested
 #
 # ******************************************************************************
 
